@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/energymap-test/static/css/main.d5be4a20.css",
+    "main.js": "/energymap-test/static/js/main.2530155f.js",
+    "static/media/nexus-logo.png": "/energymap-test/static/media/nexus-logo.a34382e6a29358770194.png",
+    "static/media/insight-white.png": "/energymap-test/static/media/insight-white.fb6662a9d6b31767eed4.png",
+    "index.html": "/energymap-test/index.html",
+    "main.d5be4a20.css.map": "/energymap-test/static/css/main.d5be4a20.css.map",
+    "main.2530155f.js.map": "/energymap-test/static/js/main.2530155f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5be4a20.css",
+    "static/js/main.2530155f.js"
+  ]
+}
